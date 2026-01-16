@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A universal, lightweight blog theme for any niche">
+    <title>Universal Blog Theme</title>
+    <link rel="stylesheet" href="theme.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <!-- Preload critical data for faster page rendering -->
+    <link rel="preload" href="data/posts.json" as="fetch" crossorigin>
+</head>
+
+
+<body>
+    <!-- Header -->
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a href="index.html">
+                        <h1>RecipesTest</h1>
+                    </a>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Carousel Section -->
+    <section class="hero-carousel">
+        <div class="carousel-container">
+            <div class="carousel-slides" id="heroCarousel">
+                <!-- Loading state -->
+                <div class="carousel-slide active">
+                    <div class="carousel-image-wrapper">
+                        <div class="carousel-loading">
+                            <div class="loading-spinner"></div>
+                            <p>Loading featured posts...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Navigation Arrows -->
+            <button class="carousel-nav prev" id="carouselPrev" aria-label="Previous slide">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+            </button>
+            <button class="carousel-nav next" id="carouselNext" aria-label="Next slide">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+            </button>
+
+            <!-- Dots Indicator -->
+            <div class="carousel-dots" id="carouselDots"></div>
+        </div>
+    </section>
+
+    <!-- AdSense Placeholder - Below Header -->
+    <div class="ad-container ad-header">
+        <div class="container">
+            <div class="ad-placeholder">
+                <!-- AdSense Ad Unit - Header -->
+                <p class="ad-label">Advertisement</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <div class="content-wrapper">
+                <!-- Posts Grid (populated by JavaScript) -->
+                <section class="posts-section">
+                    <div class="posts-grid" id="postsGrid">
+                        <!-- Posts will be dynamically loaded here -->
+                        <div class="loading">Loading posts...</div>
+                    </div>
+                    <!-- Pagination Controls -->
+                    <div id="pagination" class="pagination"></div>
+                </section>
+
+
+                <!-- Sidebar -->
+                <aside class="sidebar">
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">Categories</h3>
+                        <ul class="category-list" id="categoryList">
+                            <!-- Categories will be dynamically loaded -->
+                        </ul>
+                    </div>
+
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">Recent Posts</h3>
+                        <ul class="recent-posts" id="recentPosts">
+                            <!-- Recent posts will be dynamically loaded -->
+                        </ul>
+                    </div>
+
+                    <!-- AdSense Placeholder - Sidebar -->
+                    <div class="sidebar-widget ad-widget">
+                        <div class="ad-placeholder">
+                            <!-- AdSense Ad Unit - Sidebar -->
+                            <p class="ad-label">Advertisement</p>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <p>&copy; <span id="currentYear"></span> Universal Blog Theme. All rights reserved.</p>
+                </div>
+                <div class="footer-links">
+                    <ul>
+                        <li><a href="privacy.html">Privacy Policy</a></li>
+                        <li><a href="terms.html">Terms of Service</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
