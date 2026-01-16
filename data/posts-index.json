@@ -1,30 +1,14 @@
 {
-    "posts": [
-        {
-            "slug": "chocolate-chip-cookies-recipe",
-            "title": "Perfect Chocolate Chip Cookies Recipe",
-            "excerpt": "Learn how to make the perfect chocolate chip cookies with this easy-to-follow recipe. These cookies are crispy on the outside, chewy on the inside.",
-            "category": "Recipes",
-            "date": "2024-12-15",
-            "image": "/images/chocolate-cookies.jpg"
-        },
-        {
-            "slug": "future-of-ai-technology",
-            "title": "The Future of AI Technology: Trends to Watch in 2025",
-            "excerpt": "Artificial Intelligence is evolving at an unprecedented pace. Discover the key AI trends that will shape technology, business, and society.",
-            "category": "Technology",
-            "date": "2024-12-20",
-            "image": "/images/ai-technology.jpg"
-        },
-        {
-            "slug": "mindfulness-meditation-beginners",
-            "title": "Mindfulness Meditation for Beginners: A Complete Guide",
-            "excerpt": "Start your mindfulness journey with this comprehensive beginner's guide. Learn simple techniques to reduce stress and improve focus.",
-            "category": "Health",
-            "date": "2024-12-28",
-            "image": "/images/meditation.jpg"
-        }
-    ],
-    "generatedAt": "2024-12-31T00:00:00.000Z",
-    "count": 3
+  "posts": [
+    {
+      "slug": "creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe",
+      "title": "Creamy Chicken Cheese Pasta: Your Ultimate Indulgent Comfort Food Recipe",
+      "excerpt": "Dive into the ultimate comfort with our creamy, cheesy chicken pasta recipe. Perfect for a cozy night in or a family-favorite weeknight meal!",
+      "category": "Comfort Food",
+      "date": "2026-01-16",
+      "image": "/images/posts/creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe.jpg"
+    }
+  ],
+  "generatedAt": "2026-01-16T14:20:09.670Z",
+  "count": 1
 }
