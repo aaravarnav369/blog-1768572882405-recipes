@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "ultimate-comfort-the-soul-warming-classic-chicken-noodles-recipe",
+      "title": "Ultimate Comfort: The Soul-Warming Classic Chicken Noodles Recipe",
+      "excerpt": "Dive into a bowl of homemade chicken noodles, the quintessential comfort food. Easy to make, incredibly satisfying, and perfect for any day!",
+      "category": "Recipes",
+      "date": "2026-01-17",
+      "image": "/images/posts/ultimate-comfort-the-soul-warming-classic-chicken-noodles-recipe.jpg"
+    },
+    {
       "slug": "master-the-ultimate-chicken-egg-fried-rice-easy-weeknight-recipe",
       "title": "Master the Ultimate Chicken Egg Fried Rice: Easy Weeknight Recipe!",
       "excerpt": "Craving delicious, homemade fried rice? This guide helps you create a restaurant-quality Chicken Egg Fried Rice with ease for a perfect weeknight meal.",
@@ -49,6 +57,6 @@
       "image": "/images/posts/creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe.jpg"
     }
   ],
-  "generatedAt": "2026-01-17T12:07:10.982Z",
-  "count": 6
+  "generatedAt": "2026-01-17T12:09:05.455Z",
+  "count": 7
 }
