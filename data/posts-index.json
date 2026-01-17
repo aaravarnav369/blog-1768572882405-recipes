@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "master-the-ultimate-chicken-egg-fried-rice-easy-weeknight-recipe",
+      "title": "Master the Ultimate Chicken Egg Fried Rice: Easy Weeknight Recipe!",
+      "excerpt": "Craving delicious, homemade fried rice? This guide helps you create a restaurant-quality Chicken Egg Fried Rice with ease for a perfect weeknight meal.",
+      "category": "Asian Comfort Food",
+      "date": "2026-01-17",
+      "image": "../images/posts/master-the-ultimate-chicken-egg-fried-rice-easy-weeknight-recipe.jpg"
+    },
+    {
       "slug": "savory-speedy-the-best-chicken-garlic-noodles-recipe-you-ll-ever-make",
       "title": "Savory & Speedy: The Best Chicken Garlic Noodles Recipe You'll Ever Make",
       "excerpt": "Craving restaurant-style Chicken Garlic Noodles at home? This quick, flavorful recipe delivers tender chicken, abundant garlic, and perfectly sauced noodles in under 30 minutes!",
@@ -41,6 +49,6 @@
       "image": "/images/posts/creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe.jpg"
     }
   ],
-  "generatedAt": "2026-01-17T11:51:45.712Z",
-  "count": 5
+  "generatedAt": "2026-01-17T12:07:10.982Z",
+  "count": 6
 }
