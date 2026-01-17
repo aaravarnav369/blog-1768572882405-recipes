@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "id": 45,
+      "title": "The Ultimate Chicken Garlic Rice: Your New Favorite Weeknight Meal!",
+      "slug": "the-ultimate-chicken-garlic-rice-your-new-favorite-weeknight-meal",
+      "excerpt": "Whip up a flavourful Chicken Garlic Rice that's bursting with aroma and taste. A simple, satisfying dish perfect for any day of the week!",
+      "category": "Dinner Recipes",
+      "image": "../images/posts/the-ultimate-chicken-garlic-rice-your-new-favorite-weeknight-meal.jpg",
+      "date": "2026-01-17",
+      "content": {
+        "title": "The Ultimate Chicken Garlic Rice: Your New Favorite Weeknight Meal!",
+        "excerpt": "Whip up a flavourful Chicken Garlic Rice that's bursting with aroma and taste. A simple, satisfying dish perfect for any day of the week!",
+        "category": "Dinner Recipes",
+        "paragraphs": [
+          "There's something undeniably comforting about a plate of well-made rice. But when that rice is infused with fragrant garlic, tender chicken pieces, and a symphony of savoury seasonings, it transcends into a mealtime masterpiece. Chicken Garlic Rice isn't just a dish; it's a hug in a bowl, a flavourful journey that awakens your senses and satisfies your soul. Forget complicated dinners; this recipe brings gourmet taste right into your kitchen with remarkable simplicity.",
+          "What makes this dish so universally loved? It's the perfect balance. The robust, pungent notes of garlic are mellowed and deepened by cooking, while succulent chicken thighs (or breasts, if you prefer) provide a hearty protein base. Each grain of rice becomes a canvas, soaking up the aromatic juices and seasonings, creating a harmonious blend of textures and tastes. It’s a complete meal in itself, requiring minimal fuss but delivering maximum flavour.",
+          "One of the greatest appeals of our Chicken Garlic Rice recipe is its accessibility. Whether you're a seasoned home cook or just starting your culinary adventure, the steps are straightforward and forgiving. We'll guide you through each stage, from perfectly browning your chicken to achieving that ideal fluffy, flavour-packed rice. You won't need exotic ingredients or specialized equipment, just a love for good food and a desire to create something delicious.",
+          "The secret to truly spectacular Chicken Garlic Rice lies in a few key techniques. First, don't skimp on the garlic – it's in the name for a reason! Secondly, browning your chicken properly before adding the rice not only adds depth of flavour but also ensures it stays tender and juicy. And finally, patience with the rice cooking process is crucial. Allowing it to simmer gently and then rest off the heat ensures every grain is perfectly cooked and infused with all the glorious flavours.",
+          "Once cooked, Chicken Garlic Rice is a versatile hero. Serve it simply as is, perhaps with a sprinkle of fresh chopped scallions or cilantro for a burst of freshness. For a more complete meal, a side of steamed greens or a crisp salad makes an excellent companion. Leftovers? They're even better the next day, making it an ideal candidate for meal prep. Don't be afraid to experiment with a dash of chili flakes for a kick, or a squeeze of lime to brighten the flavours.",
+          "Ready to transform your dinner routine? This Chicken Garlic Rice recipe is more than just instructions; it’s an invitation to create, to savour, and to share. Get ready for a dish that will become a cherished staple in your home, bringing smiles and satisfied sighs with every delicious spoonful. Let's get cooking!"
+        ],
+        "ingredients": [
+          "2 tbsp olive oil",
+          "1 lb boneless, skinless chicken thighs (or breasts), cut into 1-inch pieces",
+          "1 large onion, chopped",
+          "6-8 cloves garlic, minced (or more, to taste)",
+          "2 cups long-grain white rice, rinsed until water runs clear",
+          "4 cups chicken broth (low sodium)",
+          "1 tbsp soy sauce",
+          "1 tsp sesame oil (optional)",
+          "Salt and black pepper to taste",
+          "Fresh chopped scallions or cilantro, for garnish"
+        ],
+        "steps": [
+          "Heat olive oil in a large pot or Dutch oven over medium-high heat. Season chicken pieces with salt and pepper. Add chicken to the pot and cook until browned on all sides, about 5-7 minutes. Remove chicken from the pot and set aside.",
+          "Add chopped onion to the same pot and cook until softened, about 3-5 minutes, scraping up any browned bits from the bottom.",
+          "Add minced garlic to the pot and cook for 1 minute until fragrant, being careful not to burn it.",
+          "Stir in the rinsed rice, coating it with the onion and garlic mixture. Cook for 2-3 minutes, stirring occasionally, until the edges of the rice appear translucent.",
+          "Pour in the chicken broth, soy sauce, and sesame oil (if using). Bring the mixture to a boil.",
+          "Reduce heat to low, return the cooked chicken to the pot, nestling it into the rice. Cover tightly with a lid and simmer for 18-20 minutes, or until all the liquid has been absorbed and the rice is tender. Do not lift the lid during this time.",
+          "Once cooked, remove the pot from the heat and let it rest, covered, for another 10 minutes. This allows the rice to steam and become fluffy.",
+          "Fluff the rice with a fork, mixing the chicken evenly throughout. Taste and adjust seasoning if needed. Garnish with fresh chopped scallions or cilantro before serving."
+        ],
+        "tags": [
+          "chicken rice",
+          "garlic chicken",
+          "easy dinner",
+          "weeknight meal",
+          "comfort food",
+          "one-pot meal",
+          "chicken recipe",
+          "rice dish",
+          "asian inspired"
+        ],
+        "image": "https://image.pollinations.ai/prompt/Chicken%20Garlic%20Rice%20recipes%20blog%20post%20feature%20image%2C%20high%20quality%2C%20photorealistic%2C%20high%20quality%2C%20detailed%2C%20professional%20photography%2C%204k%2C%20modern%20aesthetic?width=1600&height=900&nologo=true&enhance=true"
+      }
+    },
+    {
       "id": 44,
       "title": "Ultimate Chicken Garlic Rice: Your New Favorite One-Pan Dinner!",
       "slug": "ultimate-chicken-garlic-rice-your-new-favorite-one-pan-dinner",
