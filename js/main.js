@@ -583,12 +583,12 @@ function renderRelatedPosts(currentPost, allPosts) {
         p.category === currentPost.category && p.slug !== currentPost.slug
     );
 
-    // If not enough, add random posts
-    if (related.length < 3) {
-        const others = allPosts.filter(p => p.slug !== currentPost.slug);
-        related = [...related, ...others].slice(0, 3);
+    // If not enough, add random posts to get 4 total
+    if (related.length < 4) {
+        const others = allPosts.filter(p => p.slug !== currentPost.slug && !related.includes(p));
+        related = [...related, ...others].slice(0, 4);
     } else {
-        related = related.slice(0, 3);
+        related = related.slice(0, 4);
     }
 
     if (related.length === 0) return;
