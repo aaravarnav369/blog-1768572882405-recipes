@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "the-ultimate-chicken-garlic-rice-your-new-favorite-weeknight-meal",
+      "title": "The Ultimate Chicken Garlic Rice: Your New Favorite Weeknight Meal!",
+      "excerpt": "Whip up a flavourful Chicken Garlic Rice that's bursting with aroma and taste. A simple, satisfying dish perfect for any day of the week!",
+      "category": "Dinner Recipes",
+      "date": "2026-01-17",
+      "image": "../images/posts/the-ultimate-chicken-garlic-rice-your-new-favorite-weeknight-meal.jpg"
+    },
+    {
       "slug": "ultimate-chicken-garlic-rice-your-new-favorite-one-pan-dinner",
       "title": "Ultimate Chicken Garlic Rice: Your New Favorite One-Pan Dinner!",
       "excerpt": "Whip up a ridiculously flavorful and satisfying Chicken Garlic Rice in one pan! Perfect for busy weeknights, this dish delivers comfort and incredible taste.",
@@ -17,6 +25,6 @@
       "image": "/images/posts/creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe.jpg"
     }
   ],
-  "generatedAt": "2026-01-17T10:56:58.855Z",
-  "count": 2
+  "generatedAt": "2026-01-17T11:34:55.457Z",
+  "count": 3
 }
