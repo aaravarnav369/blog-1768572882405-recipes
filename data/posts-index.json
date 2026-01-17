@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "the-ultimate-one-pan-chicken-garlic-rice-your-new-weeknight-favorite",
+      "title": "The Ultimate One-Pan Chicken Garlic Rice: Your New Weeknight Favorite",
+      "excerpt": "Discover the magic of Chicken Garlic Rice! This easy, flavorful recipe combines tender chicken, aromatic garlic, and fluffy rice in one sensational dish.",
+      "category": "Main Courses",
+      "date": "2026-01-17",
+      "image": "/images/posts/the-ultimate-one-pan-chicken-garlic-rice-your-new-weeknight-favorite.jpg"
+    },
+    {
       "slug": "the-ultimate-chicken-garlic-rice-your-new-weeknight-flavor-bomb",
       "title": "The Ultimate Chicken Garlic Rice: Your New Weeknight Flavor Bomb",
       "excerpt": "Unlock a world of flavor with our easy Chicken Garlic Rice recipe! Perfect for a quick weeknight meal or a comforting family dinner.",
@@ -73,6 +81,6 @@
       "image": "/images/posts/creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe.jpg"
     }
   ],
-  "generatedAt": "2026-01-17T12:17:42.078Z",
-  "count": 9
+  "generatedAt": "2026-01-17T12:20:50.180Z",
+  "count": 10
 }
