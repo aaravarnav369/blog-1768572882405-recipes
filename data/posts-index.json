@@ -1,94 +1,30 @@
 {
-  "posts": [
-    {
-      "slug": "ultimate-chicken-garlic-rice-your-new-flavorful-weeknight-go-to",
-      "title": "Ultimate Chicken Garlic Rice: Your New Flavorful Weeknight Go-To",
-      "excerpt": "Discover how to make the most aromatic and satisfying Chicken Garlic Rice at home. A simple yet incredibly delicious one-pan meal perfect for any night!",
-      "category": "Dinner Recipes",
-      "date": "2026-01-17",
-      "image": "/images/posts/ultimate-chicken-garlic-rice-your-new-flavorful-weeknight-go-to.jpg"
-    },
-    {
-      "slug": "the-ultimate-one-pan-chicken-garlic-rice-your-new-weeknight-favorite",
-      "title": "The Ultimate One-Pan Chicken Garlic Rice: Your New Weeknight Favorite",
-      "excerpt": "Discover the magic of Chicken Garlic Rice! This easy, flavorful recipe combines tender chicken, aromatic garlic, and fluffy rice in one sensational dish.",
-      "category": "Main Courses",
-      "date": "2026-01-17",
-      "image": "/images/posts/the-ultimate-one-pan-chicken-garlic-rice-your-new-weeknight-favorite.jpg"
-    },
-    {
-      "slug": "the-ultimate-chicken-garlic-rice-your-new-weeknight-flavor-bomb",
-      "title": "The Ultimate Chicken Garlic Rice: Your New Weeknight Flavor Bomb",
-      "excerpt": "Unlock a world of flavor with our easy Chicken Garlic Rice recipe! Perfect for a quick weeknight meal or a comforting family dinner.",
-      "category": "MainCourse",
-      "date": "2026-01-17",
-      "image": "/images/posts/the-ultimate-chicken-garlic-rice-your-new-weeknight-flavor-bomb.jpg"
-    },
-    {
-      "slug": "flavor-bomb-quick-easy-garlic-egg-noodles-for-any-night",
-      "title": "Flavor Bomb: Quick & Easy Garlic Egg Noodles for Any Night",
-      "excerpt": "Whip up savory, irresistible garlic egg noodles in minutes! This incredibly simple recipe is perfect for a quick weeknight dinner or a satisfying side.",
-      "category": "Noodle Recipes",
-      "date": "2026-01-17",
-      "image": "/images/posts/flavor-bomb-quick-easy-garlic-egg-noodles-for-any-night.jpg"
-    },
-    {
-      "slug": "ultimate-comfort-the-soul-warming-classic-chicken-noodles-recipe",
-      "title": "Ultimate Comfort: The Soul-Warming Classic Chicken Noodles Recipe",
-      "excerpt": "Dive into a bowl of homemade chicken noodles, the quintessential comfort food. Easy to make, incredibly satisfying, and perfect for any day!",
-      "category": "Recipes",
-      "date": "2026-01-17",
-      "image": "/images/posts/ultimate-comfort-the-soul-warming-classic-chicken-noodles-recipe.jpg"
-    },
-    {
-      "slug": "master-the-ultimate-chicken-egg-fried-rice-easy-weeknight-recipe",
-      "title": "Master the Ultimate Chicken Egg Fried Rice: Easy Weeknight Recipe!",
-      "excerpt": "Craving delicious, homemade fried rice? This guide helps you create a restaurant-quality Chicken Egg Fried Rice with ease for a perfect weeknight meal.",
-      "category": "Asian Comfort Food",
-      "date": "2026-01-17",
-      "image": "../images/posts/master-the-ultimate-chicken-egg-fried-rice-easy-weeknight-recipe.jpg"
-    },
-    {
-      "slug": "savory-speedy-the-best-chicken-garlic-noodles-recipe-you-ll-ever-make",
-      "title": "Savory & Speedy: The Best Chicken Garlic Noodles Recipe You'll Ever Make",
-      "excerpt": "Craving restaurant-style Chicken Garlic Noodles at home? This quick, flavorful recipe delivers tender chicken, abundant garlic, and perfectly sauced noodles in under 30 minutes!",
-      "category": "Noodle Recipes",
-      "date": "2026-01-17",
-      "image": "/images/posts/savory-speedy-the-best-chicken-garlic-noodles-recipe-you-ll-ever-make.jpg"
-    },
-    {
-      "slug": "ultimate-chicken-egg-fried-rice-your-weeknight-flavor-fix",
-      "title": "Ultimate Chicken Egg Fried Rice: Your Weeknight Flavor Fix!",
-      "excerpt": "Whip up restaurant-quality Chicken Egg Fried Rice at home! This comprehensive guide covers everything from perfect rice to savory chicken and fluffy eggs.",
-      "category": "Asian Cuisine",
-      "date": "2026-01-17",
-      "image": "/images/posts/ultimate-chicken-egg-fried-rice-your-weeknight-flavor-fix.jpg"
-    },
-    {
-      "slug": "the-ultimate-chicken-garlic-rice-your-new-favorite-weeknight-meal",
-      "title": "The Ultimate Chicken Garlic Rice: Your New Favorite Weeknight Meal!",
-      "excerpt": "Whip up a flavourful Chicken Garlic Rice that's bursting with aroma and taste. A simple, satisfying dish perfect for any day of the week!",
-      "category": "Dinner Recipes",
-      "date": "2026-01-17",
-      "image": "../images/posts/the-ultimate-chicken-garlic-rice-your-new-favorite-weeknight-meal.jpg"
-    },
-    {
-      "slug": "ultimate-chicken-garlic-rice-your-new-favorite-one-pan-dinner",
-      "title": "Ultimate Chicken Garlic Rice: Your New Favorite One-Pan Dinner!",
-      "excerpt": "Whip up a ridiculously flavorful and satisfying Chicken Garlic Rice in one pan! Perfect for busy weeknights, this dish delivers comfort and incredible taste.",
-      "category": "Recipes",
-      "date": "2026-01-17",
-      "image": "/images/posts/ultimate-chicken-garlic-rice-your-new-favorite-one-pan-dinner.jpg"
-    },
-    {
-      "slug": "creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe",
-      "title": "Creamy Chicken Cheese Pasta: Your Ultimate Indulgent Comfort Food Recipe",
-      "excerpt": "Dive into the ultimate comfort with our creamy, cheesy chicken pasta recipe. Perfect for a cozy night in or a family-favorite weeknight meal!",
-      "category": "Comfort Food",
-      "date": "2026-01-16",
-      "image": "/images/posts/creamy-chicken-cheese-pasta-your-ultimate-indulgent-comfort-food-recipe.jpg"
-    }
-  ],
-  "generatedAt": "2026-01-17T13:00:33.396Z",
-  "count": 11
+    "posts": [
+        {
+            "slug": "chocolate-chip-cookies-recipe",
+            "title": "Perfect Chocolate Chip Cookies Recipe",
+            "excerpt": "Learn how to make the perfect chocolate chip cookies with this easy-to-follow recipe. These cookies are crispy on the outside, chewy on the inside.",
+            "category": "Recipes",
+            "date": "2024-12-15",
+            "image": "/images/chocolate-cookies.jpg"
+        },
+        {
+            "slug": "future-of-ai-technology",
+            "title": "The Future of AI Technology: Trends to Watch in 2025",
+            "excerpt": "Artificial Intelligence is evolving at an unprecedented pace. Discover the key AI trends that will shape technology, business, and society.",
+            "category": "Technology",
+            "date": "2024-12-20",
+            "image": "/images/ai-technology.jpg"
+        },
+        {
+            "slug": "mindfulness-meditation-beginners",
+            "title": "Mindfulness Meditation for Beginners: A Complete Guide",
+            "excerpt": "Start your mindfulness journey with this comprehensive beginner's guide. Learn simple techniques to reduce stress and improve focus.",
+            "category": "Health",
+            "date": "2024-12-28",
+            "image": "/images/meditation.jpg"
+        }
+    ],
+    "generatedAt": "2024-12-31T00:00:00.000Z",
+    "count": 3
 }
